@@ -33,7 +33,7 @@
 
 
 
-#### 辞書構築
+### 辞書構築
 
 - [Gensim公式サイト](https://radimrehurek.com/gensim/tut1.html)
   - Qiitaの参考記事：[gensim入門](https://qiita.com/u6k/items/5170b8d8e3f41531f08a)
