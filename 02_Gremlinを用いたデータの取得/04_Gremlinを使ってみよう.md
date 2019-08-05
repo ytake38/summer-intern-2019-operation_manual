@@ -3,7 +3,7 @@
 ## 前準備
 ### Gremlin Consoleの導入
 まだの方は、以下のページを参考に、Gremlin Consoleを導入してください。  
-[Gremlin Console導入](./02_Gremlin_Console導入.md)
+[Gremlin Console導入](./02_Gremlin_Consoleの導入.md)
 
 ### データベース接続情報のダウンロード
 各データベースにアクセスするための情報が必要です。  
