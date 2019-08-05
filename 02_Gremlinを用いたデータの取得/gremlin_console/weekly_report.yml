@@ -1,0 +1,8 @@
+hosts: [summer-intern-2019.gremlin.cosmos.azure.com]
+port: 443
+username: /dbs/intern-data-wr/colls/wr
+password: {別途案内}
+connectionPool: {
+  enableSsl: true
+}
+serializer: { className: org.apache.tinkerpop.gremlin.driver.ser.GraphSONMessageSerializerV1d0, config: { serializeResultToString: true }}
